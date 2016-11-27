@@ -1,1 +1,1 @@
-# monografiamodelo-ufjf
+Este repositório possui arquivos tex para produção de TCCs do Departamento de Ciência da Computação da UFJF. Os arquivos foram gerados por reuso de outros arquivos tex. As citações seguem o projeto abntex2.
